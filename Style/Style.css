@@ -285,7 +285,7 @@ html {
     transform: translate(0%, 0.5%);
   }
   .the_mail {
-    right: 20%;
+    right: 18%;
   }
   .the_mail:hover {
     transform: scale(1.1);
